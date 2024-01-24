@@ -3,6 +3,12 @@ Python dersi kapsamında tarafımca qgis programında python kodları ile oluşt
 
 Ankara iline ait mahalle haritasında Plevne Mahallesine ait veriler doğrultusunda hazırlanan çalışma ve ona ilişkin görseller yer almaktadır.
 
+Yani, bu uygulama belirli bir poligonu seçer, etrafına bir buffer oluşturur ve istenirse sonucu QGIS projeye yükler. Bu, QGIS'deki Python ile jeo-işleme araçlarını otomatikleştirmenin temel bir örneğidir.
+Daha sonra izlediğinm adımları GitHub hesabında oluşturduğum Python-Final-Beste adlı repository’de oluşturduğum Readme.md dosyasında açtım.
+# Python Final Projesi - Beste
+Bu repository, Python Final Projesi kapsamında gerçekleştirilen coğrafi bilgi sistemleri (GIS) uygulamasını içermektedir. Proje, QGIS kullanılarak belirli bir vektör katmanındaki özel bir alanın etrafında tampon oluşturma işlemini gerçekleştirmektedir.
+
+
 Kullanılan kodlar ;
 
 import processing
